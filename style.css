@@ -1,0 +1,54 @@
+.navbar{
+    background-color:white;
+    font-size: 20px ;
+    border: none;
+    padding-bottom: 10px;
+    
+}
+.bunner{
+    position: absolute;
+    text-align: center;
+}
+
+
+.jumbotron{
+    box-shadow: 0px 20px 10px gold;
+    text-align: center;
+    background-image: url(bunner.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 40px;
+
+    
+
+
+    
+}
+
+.col-sm-8{
+    font-size: 20px;
+    margin-top: 5%;
+    
+}
+
+.col-sm-4{
+margin-bottom: 10%;
+    
+    
+
+}
+
+.imagem{
+    background-color: white;
+    margin-top: 5%;
+}
+
+H1{
+    text-align: center;
+}
+
+.btn{
+    background-color: rgb(245, 230, 101);
+}
